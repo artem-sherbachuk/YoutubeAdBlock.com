@@ -6,7 +6,7 @@ include_in_header: false
 
 **Privacy Policy**
 
-Abilo Development built the YouTube Ad Blocker: animation maker app as a Freemium app. This SERVICE is provided by Abilo Development at no cost and is intended for use as is.
+Abilo Development built the YouTube Ad Blocker as a Freemium app. This SERVICE is provided by Abilo Development at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -16,15 +16,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the app
-
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Amplitude](https://amplitude.com/privacy)
+The app does not use third party services that may collect information used to identify you.
 
 
 **Cookies**
